@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/BZ7VLSJ/1.jpg",
+        "author": "John Doe",
+        "author_img": "./images/author/1.avif",
+        "post_title": "Exploring the Wilderness",
+        "post_date": "2023-09-16",
+        "reading_time": 10,
+        "hash_tag": [
+            "nature",
+            "adventure"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_img": "./images/2.jpg",
+        "author": "Jane Smith",
+        "author_img": "./images/author/2.avif",
+        "post_title": "Cooking with Fresh Ingredients",
+        "post_date": "2023-09-15",
+        "reading_time": 8,
+        "hash_tag": [
+            "cooking",
+            "food"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_img": "./images/3.jpg",
+        "author": "Alice Johnson",
+        "author_img": "./images/author/3.avif",
+        "post_title": "Traveling on a Budget",
+        "post_date": "2023-09-14",
+        "reading_time": 12,
+        "hash_tag": [
+            "travel",
+            "budget"
+        ]
+    },
+    {
+        "id": 4,
+        "cover_img": "./images/4.jpg",
+        "author": "Mark Anderson",
+        "author_img": "./images/author/4.avif",
+        "post_title": "Technology Trends in 2023",
+        "post_date": "2023-09-13",
+        "reading_time": 7,
+        "hash_tag": [
+            "technology",
+            "trends"
+        ]
+    },
+    {
+        "id": 5,
+        "cover_img": "./images/5.jpg",
+        "author": "Emily Brown",
+        "author_img": "./images/author/5.avif",
+        "post_title": "Fitness for a Healthy Lifestyle",
+        "post_date": "2023-09-12",
+        "reading_time": 9,
+        "hash_tag": [
+            "fitness",
+            "health"
+        ]
+    }
+]
